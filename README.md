@@ -8,6 +8,7 @@ Please download database.zip, then unzip and copy it to the folder `./database` 
 
 ## Running the Code
 ### Installation
+The full libraries list is provided as a 'requirements.txt' in this repo. Please create a virtual environment with 'conda' or 'venv' and run
 ```
 pip install -r requirements.txt
 ``` 
@@ -33,4 +34,5 @@ bash ./scripts/multivariate_forecasting/PEMS03.sh
 bash ./scripts/multivariate_forecasting/PEMS08.sh
 ```
 
-## Visualization of Laplace Scanning Algorithm
+## Laplace Scanning Algorithm
+[Laplace_Scanning.ipynb](https://github.com/YunMeiGongRen/GPS-Mamba/blob/main/Laplace_Scanning.ipynb) provides an example code of reproducing Laplace Scanning Algorithm. You can modify the content according to your dataset requirements.
