@@ -15,15 +15,22 @@ pip install -r requirements.txt
 ```
 # ECL
 bash ./scripts/multivariate_forecasting/ECL.sh
+
 # Traffic
 bash ./scripts/multivariate_forecasting/Traffic.sh
+
 # Weather
 bash ./scripts/multivariate_forecasting/weather.sh
+
 # Solar-Energy
 bash ./scripts/multivariate_forecasting/Solar.sh
+
+# SD
+bash ./scripts/multivariate_forecasting/sd.sh
+
 # PEMS
 bash ./scripts/multivariate_forecasting/PEMS03.sh
 bash ./scripts/multivariate_forecasting/PEMS08.sh
-# SD
-bash ./scripts/multivariate_forecasting/sd.sh
 ```
+
+## Visualization of Laplace Scanning Algorithm
