@@ -8,7 +8,7 @@ Please download database.zip, then unzip and copy it to the folder `./database` 
 
 ## Running the Code
 ### Installation
-The full libraries list is provided as a 'requirements.txt' in this repo. Please create a virtual environment with 'conda' or 'venv' and run
+The full libraries list is provided as a `requirements.txt` in this repo. Please create a virtual environment with `conda` or `venv` and run
 ```
 pip install -r requirements.txt
 ``` 
