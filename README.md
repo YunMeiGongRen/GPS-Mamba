@@ -1,6 +1,6 @@
 # GPS-Mamba
 Official Implementation of "GPS-Mamba: Graph Permutation Scanning State Space Model for Multivariate Time Series Forecasting"
-![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/YunMeiGongRen/GPS-Mamba/blob/main/figure/figure.pdf))
+![image]([[https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/YunMeiGongRen/GPS-Mamba/blob/main/figure/figure.pdf](https://github.com/YunMeiGongRen/GPS-Mamba/blob/main/figure/figure.png)))
 ## Preparation
 All the permutation results of datasets can be obtained from [here](https://github.com/YunMeiGongRen/GPS-Mamba/releases/download/Permutation1.0/database.zip). 
 
