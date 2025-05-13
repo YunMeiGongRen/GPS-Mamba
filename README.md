@@ -8,5 +8,7 @@ Please download database.zip, then unzip and copy it to the folder `./database` 
 
 ## Running the Code
 ### Installation
-`<pip install -r requirements.txt>` 
+```
+pip install -r requirements.txt
+``` 
 ### Train and evaluate
